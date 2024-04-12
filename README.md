@@ -1,8 +1,8 @@
-### Hi there 👋 I am William Liu
+# Hi there 👋 I am William Liu
 
-#### A student studying Master of Computer Science @ USYD
+## A student studying Master of Computer Science @ USYD
 
-##### Passionate web developer, UI Designer, Graphic Designer, Photographer
+### Passionate web developer, UI Designer, Graphic Designer, Photographer
 
 <!--**liutkwilliam/liutkwilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
