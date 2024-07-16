@@ -1,4 +1,4 @@
-# Hi there 👋 I am William Liu (his/him)
+# Hi there 👋 I am William Liu (he/him)
 #### A Hong Kong Australian based in Sydney, Australia
 ### Passionate web developer, Graphic Designer and Photographer
 
