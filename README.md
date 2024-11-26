@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
 # Hi there 👋 I am William Liu (he/him)
 #### A Hong Kong Australian based in Sydney, Australia (Gadigal Land)
 ### Passionate web developer, Graphic Designer and Photographer
