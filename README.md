@@ -1,7 +1,3 @@
-<head>
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
-</head>
-
 # Hi there 👋 I am William Liu (he/him)
 #### A Hong Kong Australian based in Sydney, Australia (Gadigal Land)
 ### Passionate web developer, Graphic Designer and Photographer
@@ -35,7 +31,7 @@
 #### Lanuages and IT Tools I used
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 
 
