@@ -26,12 +26,42 @@
 
 ##### Multimedia Design Tools I used
 
-- 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator.eps" alt="Illustrator" style="width:auto; height:30px;">
+<!--   <img src="" alt="InDesign" style="width:auto; height:30px;">
+  <img src="" alt="lightroom" style="width:auto; height:30px;">
+  <img src="" alt="Premiere Pro" style="width:auto; height:30px;"> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" style="width:auto; height:30px;">
+<!--   <img src="" alt="Animate" style="width:auto; height:30px;">
+  <img src="" alt="Audition" style="width:auto; height:30px;"> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" style="width:auto; height:30px;">
+<!--   <img src="" alt="" style="width:auto; height:30px;">
+  <img src="" alt="" style="width:auto; height:30px;">
+  <img src="" alt="" style="width:auto; height:30px;"> -->
+  
+</div>
 
 #### Lanuages and IT Tools I used
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass/Scss" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJs" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jekyll/jekyll-original.svg" alt="Jekyll" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" style="width:auto; height:30px;">
+<!--   <img src="" alt="" style="width:auto; height:30px;">
+  <img src="" alt="" style="width:auto; height:30px;">
+  <img src="" alt="" style="width:auto; height:30px;">
+  <img src="" alt="" style="width:auto; height:30px;"> -->
 </div>
 
 
