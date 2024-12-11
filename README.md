@@ -1,12 +1,12 @@
 # Hi there 👋 I am William Liu (he/him)
-#### A Hong Kong Australian based in Sydney, Australia (Gadigal Land)
-### Passionate web developer, Graphic Designer and Photographer
+#### Based in Sydney, Australia (Gadigal Land)
+### Web developer, Graphic Designer and Photographer | Passionate about frontend development and AI
 
 ### Studying Master of Computer Science @ The University of Sydney, with focus on software engineering.
 
 <!--**liutkwilliam/liutkwilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently an Artwork Documentation Archivist, documenting and managing 1000+ artworks entries, and their catalogue management system.
+- 🔭 I’m currently an Artwork Documentation Archivist, documenting and managing 1000+ artworks entries through a catalogue management system.
 - ✨ I'm updating my design portfolio and will include a developer one.
 - 🌱 I’m learning ReactJS, Python, Java, and Flutter.
 - 👯 I’m looking to collaborate on interactive design, artwork, and light installation.
@@ -24,14 +24,15 @@
 - 🔷 Blue is my favourite colour. I love chocolate, strawberries, and chips. I appreciate nature and animals.
 - 🖼️ Check out my [Instagram photography portfolio](https://www.instagram.com/liutk.william/).
 
-##### Multimedia Design Tools I used
+#### Multimedia Design Tools I used
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" style="width:auto; height:30px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator.eps" alt="Illustrator" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" style="width:auto; height:30px;">
 <!--   <img src="" alt="InDesign" style="width:auto; height:30px;">
   <img src="" alt="lightroom" style="width:auto; height:30px;">
-  <img src="" alt="Premiere Pro" style="width:auto; height:30px;"> -->
+   -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" style="width:auto; height:30px;">
 <!--   <img src="" alt="Animate" style="width:auto; height:30px;">
   <img src="" alt="Audition" style="width:auto; height:30px;"> -->
@@ -42,6 +43,11 @@
   <img src="" alt="" style="width:auto; height:30px;"> -->
   
 </div>
+
+- Lightroom
+- InDesign
+- Animate
+- Audition
 
 #### Lanuages and IT Tools I used
 
@@ -63,6 +69,6 @@
   <img src="" alt="" style="width:auto; height:30px;">
   <img src="" alt="" style="width:auto; height:30px;"> -->
 </div>
-
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liutkwilliam&layout=compact)
