@@ -64,10 +64,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" style="width:auto; height:30px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" style="width:auto; height:30px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" style="width:auto; height:30px;">
-<!--   <img src="" alt="" style="width:auto; height:30px;">
-  <img src="" alt="" style="width:auto; height:30px;">
-  <img src="" alt="" style="width:auto; height:30px;">
-  <img src="" alt="" style="width:auto; height:30px;"> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" alt="Hugo" style="width:auto; height:30px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" style="width:auto; height:30px;">
+  <!-- <img src="" alt="" style="width:auto; height:30px;"> -->
 </div>
 <br>
 
